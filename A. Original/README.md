@@ -39,6 +39,7 @@ Various models are created using logistic regression, decision tree and random f
 A pipeline is used to prevent data leakage. Data is scaled in the pipeline.<br>
 The image below shows a summary of the models and their performance.
  
+ /home/henry/Desktop/P3_project/A. Original/Models.png
              
 ### Evaluation
  
